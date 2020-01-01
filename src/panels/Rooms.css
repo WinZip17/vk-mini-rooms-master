@@ -1,0 +1,40 @@
+.rooms {
+
+}
+
+
+.img-rooms {
+  border-radius: 5px;
+  width: 100%;
+  margin-left: 5px;
+  margin-right: 5px;
+  /*position: absolute;*/
+  /*z-index: 1;*/
+}
+/*.buttons-block {*/
+/*  ma*/
+/*}*/
+
+
+.button-close-rooms {
+  position: absolute;
+  /*margin-top: -50px;*/
+  display: block;
+  bottom: 15px;
+  right: 15px;
+  /*z-index: 55;*/
+}
+
+.button-catch-cat {
+  position: absolute;
+  display: block;
+  bottom: 55px;
+  right: 15px;
+}
+
+.button-save-out {
+  position: absolute;
+  display: block;
+  bottom: 15px;
+  left: 15px;
+}
