@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vk-mini-rooms-master/static/css/main.8ee5c83e.chunk.css",
-    "main.js": "/vk-mini-rooms-master/static/js/main.9e1fa2fa.chunk.js",
-    "main.js.map": "/vk-mini-rooms-master/static/js/main.9e1fa2fa.chunk.js.map",
+    "main.js": "/vk-mini-rooms-master/static/js/main.57c66526.chunk.js",
+    "main.js.map": "/vk-mini-rooms-master/static/js/main.57c66526.chunk.js.map",
     "runtime-main.js": "/vk-mini-rooms-master/static/js/runtime-main.cf834571.js",
     "runtime-main.js.map": "/vk-mini-rooms-master/static/js/runtime-main.cf834571.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/vk-mini-rooms-master/static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bc24fe1b.chunk.js": "/vk-mini-rooms-master/static/js/2.bc24fe1b.chunk.js",
     "static/js/2.bc24fe1b.chunk.js.map": "/vk-mini-rooms-master/static/js/2.bc24fe1b.chunk.js.map",
     "index.html": "/vk-mini-rooms-master/index.html",
-    "precache-manifest.75f7a6688827279348a0323b8bc44c5e.js": "/vk-mini-rooms-master/precache-manifest.75f7a6688827279348a0323b8bc44c5e.js",
+    "precache-manifest.3e27f3fd6cfc2c0fb6c8c8bc20d83899.js": "/vk-mini-rooms-master/precache-manifest.3e27f3fd6cfc2c0fb6c8c8bc20d83899.js",
     "service-worker.js": "/vk-mini-rooms-master/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/vk-mini-rooms-master/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.8ee5c83e.chunk.css.map": "/vk-mini-rooms-master/static/css/main.8ee5c83e.chunk.css.map",
@@ -75,6 +75,6 @@
     "static/css/2.2cfa1b23.chunk.css",
     "static/js/2.bc24fe1b.chunk.js",
     "static/css/main.8ee5c83e.chunk.css",
-    "static/js/main.9e1fa2fa.chunk.js"
+    "static/js/main.57c66526.chunk.js"
   ]
 }
