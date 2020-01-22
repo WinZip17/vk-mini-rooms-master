@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78e1747b9cd33e8841caf3e4f034197c",
+    "revision": "7bb9c1f1583cb7f5a9db59de29cd288c",
     "url": "/vk-mini-rooms-master/index.html"
   },
   {
